@@ -1,6 +1,5 @@
 // Kenny Park
-// CS 115
-// Assignment 1
+
 
 
 #include "Train.hpp"
